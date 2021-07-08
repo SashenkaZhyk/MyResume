@@ -43,7 +43,7 @@ description = "80%"
 [[feature]]
   icon = "frog"
   icon_pack = "fas"
-  name = "Toad DB"
+  name = "Toad DB/SQL"
   description = "100%"  
 
 
@@ -54,8 +54,9 @@ description = "80%"
   description = "70%"
 
 [[feature]]
-  icon = "far fa-boxing-glove"
-  icon_pack = "far"
+  icon = "running"
+  icon_pack = "fas"
   name = "Kick boxing"
   description = "80%"
+
 +++
