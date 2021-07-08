@@ -35,7 +35,7 @@ description = "80%"
 
 
 [[feature]]
-  icon = "Python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "80%"
@@ -50,12 +50,12 @@ description = "80%"
 [[feature]]
   icon = "hiking"
   icon_pack = "fas"
-  name = "hiking"
+  name = "Hiking"
   description = "70%"
 
 [[feature]]
-  icon = "🥊"
-  icon_pack = "emoji"
-  name = "kick boxing"
-  description = "100%"
+  icon = "far fa-boxing-glove"
+  icon_pack = "far"
+  name = "Kick boxing"
+  description = "80%"
 +++
