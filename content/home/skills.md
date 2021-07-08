@@ -54,8 +54,8 @@ description = "80%"
   description = "70%"
 
 [[feature]]
-  icon: "🥊"
-  icon_pack: "emoji"
-  name: "kick boxing"
-  description: "100%""
+  icon = "🥊"
+  icon_pack = "emoji"
+  name = "kick boxing"
+  description = "100%""
 +++
