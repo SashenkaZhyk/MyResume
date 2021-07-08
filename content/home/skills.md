@@ -57,5 +57,5 @@ description = "80%"
   icon = "🥊"
   icon_pack = "emoji"
   name = "kick boxing"
-  description = "100%""
+  description = "100%"
 +++
