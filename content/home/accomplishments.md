@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2019-03-10"
   date_end = ""
   description = "Shiny is an R package that makes it easy to build interactive web apps straight from R"
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "2019-02-17"
   date_end = ""
   description = ""
-  
+
   [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
